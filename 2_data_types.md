@@ -1,6 +1,6 @@
 ```Kotlin
 /**
- * 1.1 Data Types
+ * 2-Data Types
  * Int, Double, Float, Char, String, Boolean
  */
 
