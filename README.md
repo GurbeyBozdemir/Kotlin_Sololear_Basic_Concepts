@@ -1,2 +1,2 @@
 ### Kotlin_Sololearn
-Sololearn app içerisindeki tüm Kotlin uygulamaları
+Sololearn ugulamasındaki Kotlin derlerinin ilk bölümü olan Basic Concepts bölümündeki tüm uygulamalar.
